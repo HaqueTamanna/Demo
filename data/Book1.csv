@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F-Measure
+K-Nearest Neighbour,67,59,32,41
+Random Forest,75,70,53,60
+Support Vector Machine,73,69,49,58
